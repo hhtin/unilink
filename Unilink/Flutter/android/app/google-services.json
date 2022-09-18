@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872538585153",
+    "project_id": "unilink-d3128",
+    "storage_bucket": "unilink-d3128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872538585153:android:d37f1cb3fc55a54535aec0",
+        "android_client_info": {
+          "package_name": "com.example.unilink_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872538585153-c0sbjodtk2dcgfub8q2pijj4amg0ep7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unilink_flutter_app",
+            "certificate_hash": "9384ac974d2a92e3a58e6b712e765606a9a00aa1"
+          }
+        },
+        {
+          "client_id": "872538585153-td376ffu499migfak3seo9c8blh5r4pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6GCtMiEqmdHcDA2AKWow7jgKFqDc20Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872538585153-td376ffu499migfak3seo9c8blh5r4pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
